@@ -125,6 +125,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Streamlit implementation
+
+Link: https://learning-path-optimization-sb.streamlit.app/
+
 ---
 
 ## Future Enhancements
